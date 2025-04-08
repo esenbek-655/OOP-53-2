@@ -6,6 +6,12 @@ git init
 git remote add origin https://github.com/esenbek-655/OOP-53-2.git
 
 
+token
+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
+команды для удаления настроек
+git confiq --global --unset user.name
+git confiq --qlobal --uset user.email
+
 Команды которые часто используется
 ls
 git status
