@@ -1,0 +1,34 @@
+git config --global user.name "esenbek-655"
+git config --global user.email "esenbekarstanbekov2@gmail.com"
+
+команды одн раз для проекта
+git init
+git remote add origin https://github.com/esenbek-655/OOP-53-2.git
+
+
+Команды которые часто используется
+ls
+git status
+git add .
+git commit -m "commit name"
+git push origin master\main
+
+
+
+
+git rm --cashed -r .idea
+
+git merge branch_name  | Cтягивает изменение из указанной ветки
+
+git clonr link  | клонирование проекта
+
+
+
+
+cd ../ | Для перехода в предудущую директорию
+cd name_dir
+ls
+ls -a
+mkdir name_dir
+touch name_file
+cd \ уровень вперед
