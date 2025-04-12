@@ -38,3 +38,14 @@ ls -a
 mkdir name_dir
 touch name_file
 cd \ уровень вперед
+
+Команды для работы с VENV
+
+deactivate | Команды для отключения  venv
+
+py
+python  -m venv name_venv   | команда для создания venv
+python3
+
+
+.venv\Scripts\activate   | Команды для активации venv на Wind OS
