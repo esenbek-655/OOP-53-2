@@ -21,6 +21,9 @@ git push origin master\main
 
 
 
+Команды
+
+
 
 git rm --cashed -r .idea
 
