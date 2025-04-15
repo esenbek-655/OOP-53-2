@@ -52,3 +52,7 @@ python3
 
 
 .venv\Scripts\activate   | Команды для активации venv на Wind OS
+
+
+git restore . ili name_file |  удаляет то что добавлено git add
+git reset .
